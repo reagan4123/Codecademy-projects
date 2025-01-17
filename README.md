@@ -1,5 +1,14 @@
 # Codecademy-projects
-This repository is for organizing coding projects for practice. 
+The objective of this project was to practice using flexbox. It took me a bit to trouble shoot some of the issues I encountered, however I was able to get it figured out and enjoyed this project. I do think that I could be making my HTML and CSS coding cleaner and more efficient. If you take a peak at the files and have any suggestions, please feel free to reach out.
+
+# Systems Used
+- Phoenix Code
+
+# Resources Used
+Codecademy-provided images
+  - redline specifications image
+  - background images
+  - favorite tea images
 
 # Instructions
-There are no instructions for using these file. It is purely for organizing my practice files, displaying my progress, and for fun. Please feel free to open up each file to review my coding. If you have any suggestions on how I can improve or make my coding cleaner, please feel free to reach out to me. I enjoy networking and collaboration. 
+There are no instructions for using these file. 
